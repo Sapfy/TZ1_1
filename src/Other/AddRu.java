@@ -16,7 +16,6 @@ import java.awt.event.MouseEvent;
 public class AddRu extends JFrame {
 
 	/**
-	Hello, world!
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
